@@ -1,0 +1,2 @@
+# Blueprints
+A blueprint defines a collection of views, templates, static files and other elements that can be applied to an application.The killer use-case for blueprints is to organize our application into distinct components. 
