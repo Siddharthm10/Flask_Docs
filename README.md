@@ -15,9 +15,9 @@ List
 |Flask-classful|||[Here](http://flask-classful.teracy.org/)|
 |Flask-Cache|||[Here](https://pythonhosted.org/Flask-Cache/)|
 |Flask-Principal|||[Here](https://pythonhosted.org/Flask-Principal/)|
-|Flask-Mail|||[Here](https://pypi.org/project/Flask-Mail/)|
+|Flask-Mail|[Here](flask-mail)|Done|[Here](https://pypi.org/project/Flask-Mail/)|
 |Flask-mongoengine|||[Here](https://github.com/mongoengine/flask-mongoengine)|
-|Flask-Login|||[Here](https://flask-login.readthedocs.io/en/latest/)|
+|Flask-Login|[Here](flask-login)|Done|[Here](https://flask-login.readthedocs.io/en/latest/)|
 |Flask-Nav|||[Here](https://pythonhosted.org/flask-nav/)|
 |Flask-Dance|||[Here](https://flask-dance.readthedocs.io/en/latest/)|
 |Flask-WTF|[Here](flask-wtf)|Done|[Here](https://flask-wtf.readthedocs.io/en/stable/)|
