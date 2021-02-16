@@ -8,7 +8,7 @@ List
 |Flask-User||Ongoing|[Here](https://flask-user.readthedocs.io/en/latest/)|
 |Flask-Session|||[Here](https://flask-session.readthedocs.io/en/latest/)|
 |Flask-Security|||[Here](https://flask-security-too.readthedocs.io/en/stable/index.html)|
-|Flask-SQLAlchemy|||[Here](https://flask-sqlalchemy.palletsprojects.com/en/2.x/)|
+|Flask-SQLAlchemy|Done|[Here](flask-sqlAlchemy)]|[Here](https://flask-sqlalchemy.palletsprojects.com/en/2.x/)|
 |Flask-Admin|||[Here](https://flask-admin.readthedocs.io/en/latest/)|
 |Flask-View|||[Here](https://flask.palletsprojects.com/en/1.1.x/tutorial/views/)|
 |Flask-Classy|||[Here](https://pythonhosted.org/Flask-Classy/)|
@@ -20,7 +20,7 @@ List
 |Flask-Login|||[Here](https://flask-login.readthedocs.io/en/latest/)|
 |Flask-Nav|||[Here](https://pythonhosted.org/flask-nav/)|
 |Flask-Dance|||[Here](https://flask-dance.readthedocs.io/en/latest/)|
-|Flask-WTF|||[Here](https://flask-wtf.readthedocs.io/en/stable/)|
+|Flask-WTF|Done|[Here](flask-wtf)|[Here](https://flask-wtf.readthedocs.io/en/stable/)|
 |Flask-MDE|||[Here](https://flask-mde.readthedocs.io/en/latest/)|
 |Flask-Bootstrap|||[Here](https://pythonhosted.org/Flask-Bootstrap/)|
 |Flask-RestPlus|||[Here](https://flask-restplus.readthedocs.io/en/stable/)|
