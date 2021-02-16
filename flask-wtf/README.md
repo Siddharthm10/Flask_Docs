@@ -23,6 +23,8 @@ Usually, people write forms in html. But we can also write forms directly in pyt
     2. BooleanField -> Boolean True/False values.<br>
     3. SubmitField -> Submit Button.<br>
     4. PasswordField -> For password.<br>
+    5. FileField -> Supports uploading files.<br>
+    6. FileAllowed -> Helps us defining the allowed file extensions.<br>
     Thus there are many such input types which we can use in our forms.<br>
 
 ### How to use WTForms:

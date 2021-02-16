@@ -52,7 +52,13 @@ Step 4: Basic Commands to work with the database:
 6. `db.drop_all()`: Delete all data.
 7. `db.session.add(user)`: Add the user to the database.
 8. `db.session.commit()`: Commit the changes.
-
+9. `db.session.delete(object)`: Delete the instance of an object.
+10. `Post.query.paginate()`: Converts the all posts into several pages. It has arguements (can be seen with `dir(paginate)`)
+    1.  `per_page`:return posts per page
+    2.  `page`: returns current page
+    3.  `items`: returns list with all the items on that page.
+    4.  `total`: return total posts(overall).
+11. `Post.query.order_by(Post.date_posted.desc())`: orders the post in descending order
 
 Step 5: Use the commands to use the database in your app:
 
