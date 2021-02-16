@@ -25,3 +25,4 @@ List
 |Flask-Bootstrap|||[Here](https://pythonhosted.org/Flask-Bootstrap/)|
 |Flask-RestPlus|||[Here](https://flask-restplus.readthedocs.io/en/stable/)|
 |Flask-RestX|||[Here](https://flask-restx.readthedocs.io/en/latest/)|
+|Flask-Bcrypt|[Here](flask-bcrypt)|Done|[Here](https://flask-bcrypt.readthedocs.io/en/latest/)|
