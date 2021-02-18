@@ -1,11 +1,11 @@
 # Getting Started With Flask
 ### Flask Tutorials and Documentations:
-Here, I'll be adding the basic documentation of flask api's for understanding purpose. 
+Here, I'll be adding the basic documentation of flask api's and their functionality for understanding purpose. 
 
 List
 | NAME | TUTORIAL LINK | STATUS | Official-Docs|
 |------|---------------|----------|------------|
-|Blueprints||Ongoing|[Here](https://exploreflask.com/en/latest/blueprints.html)|
+|Blueprints|[Here](Blueprints)|Done|[Here](https://exploreflask.com/en/latest/blueprints.html)|
 |Flask-User||Ongoing|[Here](https://flask-user.readthedocs.io/en/latest/)|
 |Flask-Session|||[Here](https://flask-session.readthedocs.io/en/latest/)|
 |Flask-Security|||[Here](https://flask-security-too.readthedocs.io/en/stable/index.html)|
